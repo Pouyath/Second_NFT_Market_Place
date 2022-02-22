@@ -1,4 +1,3 @@
-#NFT Marketplace
 <<<<<<< HEAD
 # NFT-MarketPlace-Front
 This is a sample implementation of NFT MarketPlace 
