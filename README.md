@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# NFT-MarketPlace-Front
+# NFT-MarketPlace
 This is a sample implementation of NFT MarketPlace 
 =======
 # nft-marketplace
