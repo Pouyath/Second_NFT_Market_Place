@@ -1,22 +1,31 @@
 #NFT Marketplace
+<<<<<<< HEAD
+# NFT-MarketPlace-Front
+This is a sample implementation of NFT MarketPlace 
+=======
+# nft-marketplace
 
-##installing
+> Marketplace for crypto assets
 
-### `npm install`
+<img width="1295" alt="Screen Shot 2022-02-22 at 12 47 53 PM" src="https://user-images.githubusercontent.com/54264665/155101946-0e5ae8a3-34dd-4710-bfe6-95a15302b123.png">
 
-### `npm install -g truffle`
 
-## runnig tests
 
-### `truffle compile`
+## Configure environment
 
-### `truffle test`
+You need to configure your environment variables now. Copy `config.env.example` and rename as `config.env`. Now provide values for the keys mentioned there.
 
-## Deploy on local Blockchain
 
-### `truffle migrate`
+## Build Setup
+
+```bash
+$ npm install
+$ npm install -g truffle
+$ runnig tests
+$ truffle compile
+$ Deploy on local Blockchain
+$ truffle migrate
 
 ## Open user interface:
-
-### `npm start`
+$ npm start
 
